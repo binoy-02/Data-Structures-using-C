@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){ 
+int main(){  
     int size;
     printf("Enter pyramid size: ");
     scanf(" %d",&size);
