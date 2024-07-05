@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> 
 void occ(int arr[],int n, int a)
 {
 	int b=0,i;
