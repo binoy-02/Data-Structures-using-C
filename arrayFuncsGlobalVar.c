@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> 
 int a[100],p,n=-1;
 void disp()
 {
