@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 void insert(int a[], int *n) {
     int i;
