@@ -11,7 +11,7 @@ void occ(int arr[],int n, int a)
 			b++;
 		}
 	}
-	if (b==0)
+	if (b == 0)
 	{
 		printf("none");
 	}
