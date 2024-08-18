@@ -17,8 +17,7 @@ int main()
 	}
 	for(i=0;i<n;i++)
 	{
-		s=s+*(p+i);
-	}
+		s=s+*(p+i);	}
 	mean=s/n;
 	printf("mean:%f",mean);
 	free(p);
